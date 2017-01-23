@@ -87,7 +87,7 @@ public class Extract22 {
 		 }
 		 System.out.println("*1*******************");
 		 for (Element link : fool2) { 
-			 System.out.println(link.toString());
+			 System.out.println(link.text());
 		 }
 		 System.out.println("*2*******************");
 		 for (Element link : fool3) { 
